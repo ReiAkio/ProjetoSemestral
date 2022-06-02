@@ -7,3 +7,4 @@ Thiago Akio Kanada Tanaka  RA:19.01726-0
 
 # Foto Montagem
 ![image]("https://raw.githubusercontent.com/ReiAkio/ProjetoSemestral/main/ProjetoSemestral_Cindy_Akio/imagem_montagem.jpg")
+https://raw.githubusercontent.com/ReiAkio/ProjetoSemestral/main/ProjetoSemestral_Cindy_Akio/imagem_montagem.jpg
